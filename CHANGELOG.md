@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/nodejs-translate?activeTab=versions
 
+### [6.0.1](https://www.github.com/googleapis/nodejs-translate/compare/v6.0.0...v6.0.1) (2020-06-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @google-cloud/vision to v2 ([#539](https://www.github.com/googleapis/nodejs-translate/issues/539)) ([5dbeac4](https://www.github.com/googleapis/nodejs-translate/commit/5dbeac4e9a3133a6008cd8fb882046fe4a9946bc))
+
 ## [6.0.0](https://www.github.com/googleapis/nodejs-translate/compare/v5.3.0...v6.0.0) (2020-06-03)
 
 
